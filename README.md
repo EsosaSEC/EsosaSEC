@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>SOC Projects</b>
-  - [Static and Dynamic Malware Analysis](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Static and Dynamic Malware Analysis](https://github.com/EsosaSEC/Malware-Analysis)
   - Detecting and Visualizing Nmap scans using Suricata and Splunk
   - Active Directory Vulnerability Analysis using BloodHound
 - <b>Pentesting</b>
