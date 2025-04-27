@@ -5,7 +5,7 @@
 - <b>SOC Projects</b>
   - [Static and Dynamic Malware Analysis](https://github.com/EsosaSEC/Malware-Analysis)
   - [Detecting and Visualizing Nmap scans using Suricata and Splunk](https://github.com/EsosaSEC/Nmap-Suricata-Splunk)
-  - Active Directory Vulnerability Analysis using BloodHound
+  - [Detecting ICMP Traffic With Snort and Suricata- A Beginner's Guide]
 - <b>Pentesting</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
