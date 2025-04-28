@@ -6,8 +6,9 @@
   - [Static and Dynamic Malware Analysis](https://github.com/EsosaSEC/Malware-Analysis)
   - [Detecting and Visualizing Nmap scans using Suricata and Splunk](https://github.com/EsosaSEC/Nmap-Suricata-Splunk)
   - [Detecting ICMP Traffic With Snort and Suricata- A Beginner's Guide](https://github.com/EsosaSEC/icmp-detection-snort-suricata)
-- <b>Pentesting</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - 
+- <b>Active Directory Projects</b>
+  - [Active Directory Vulnerability analysis using bloodhound](--)
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
