@@ -6,6 +6,7 @@
   - [Static and Dynamic Malware Analysis](https://github.com/EsosaSEC/Malware-Analysis)
   - [Detecting and Visualizing Nmap scans using Suricata and Splunk](https://github.com/EsosaSEC/Nmap-Suricata-Splunk)
   - [Detecting ICMP Traffic With Snort and Suricata- A Beginner's Guide](https://github.com/EsosaSEC/icmp-detection-snort-suricata)
+  - [Detecting DNS Tunneling attack using Suricata, Wireshark, and Splunk](w)
     
 - <b>Active Directory Projects</b>
   - [Active Directory Vulnerability analysis using BloodHound](https://github.com/EsosaSEC/AD-Vulnerability-Analysis)
