@@ -1,4 +1,4 @@
-<h1>Hi, I'm Esosa!</h1>
+<h1>Hi, I'm Esosa! A SOC Analyst in training</h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
