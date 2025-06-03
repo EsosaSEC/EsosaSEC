@@ -23,7 +23,7 @@
 
 -[Cisco Python Essentials](https://www.credly.com/badges/6590e237-761a-40a3-85b3-58f9fa8bcba7) 
 
--[Introudction to cybersecurity](https://www.credly.com/badges/7d8ced54-ea89-4fed-8897-2a38067172c7) 
+-[Introdction to cybersecurity](https://www.credly.com/badges/7d8ced54-ea89-4fed-8897-2a38067172c7) 
 
 -[Networking Basics](https://www.credly.com/badges/763f1542-8551-47b7-bb94-e2b7ad51b172) 
 
