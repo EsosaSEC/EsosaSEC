@@ -1,6 +1,6 @@
 <h1>Hi, I'm Esosa! A SOC Analyst in training</h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 My Cybersecurity Projects:</h2>
 
 - <b>SOC Projects</b>
   - [Static and Dynamic Malware Analysis](https://github.com/EsosaSEC/Malware-Analysis)
