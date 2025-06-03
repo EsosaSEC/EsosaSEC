@@ -14,7 +14,24 @@
 - <b>Networking Projects</b>
   - [Cisco-VLAN-DHCP-Enterprise-Setup](https://github.com/EsosaSEC/Enterprise-network-setup)
 
-<h2>    Certifications</h2>
+<h2> Certifications</h2>
+
+
+<h2> Badges </h2>
+
+-[Junior Cybersecurity Analyst Path](https://www.credly.com/badges/7cc9fd9b-ed93-4cf9-b953-e83a3b3f5dc3) 
+
+-[Cisco Python Essentials](https://www.credly.com/badges/6590e237-761a-40a3-85b3-58f9fa8bcba7) 
+
+-[Introudction to cybersecurity](https://www.credly.com/badges/7d8ced54-ea89-4fed-8897-2a38067172c7) 
+
+-[Networking Basics](https://www.credly.com/badges/763f1542-8551-47b7-bb94-e2b7ad51b172) 
+
+-[Networking Devices and Initial Configurations](https://www.credly.com/badges/06545449-6025-46db-9805-0a12daef6805) 
+
+-[Endpoint Security](https://www.credly.com/badges/780fbfe5-0def-4bf7-8d55-07d88e2b803a)
+
+-[Network Defense](https://www.credly.com/badges/ca84d792-5750-42f1-bade-c1aa8059cb0c) 
 
 
 <h2> 🤳 Connect with me:</h2>
