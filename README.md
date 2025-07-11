@@ -14,6 +14,12 @@
 - <b>Networking Projects</b>
   - [Cisco-VLAN-DHCP-Enterprise-Setup](https://github.com/EsosaSEC/Enterprise-network-setup)
 
+- <b>Bash Scripting</b>
+  - [Failed Login detection]()
+  - [Privilege Escalation]()
+  - [Network Scanning]()
+  - [Process Monitoring]()
+
 <h2> Certifications</h2>
 
 
