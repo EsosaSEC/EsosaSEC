@@ -16,7 +16,7 @@
 
 - <b>Bash Scripting</b>
   - [Failed Login detection](https://github.com/EsosaSEC/Failed-Login-Detector)
-  - [Privilege Escalation]()
+  - [Privilege Escalation](https://github.com/EsosaSEC/Privilege-Escalation-Detector)
   - [Network Scanning]()
   - [Process Monitoring]()
 
