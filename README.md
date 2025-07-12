@@ -15,7 +15,7 @@
   - [Cisco-VLAN-DHCP-Enterprise-Setup](https://github.com/EsosaSEC/Enterprise-network-setup)
 
 - <b>Bash Scripting</b>
-  - [Configuration file for the scripts below]()
+  - [Configuration file for the scripts below](https://github.com/EsosaSEC/Configuration-file)
   - [Failed Login detection](https://github.com/EsosaSEC/Failed-Login-Detector)
   - [Privilege Escalation](https://github.com/EsosaSEC/Privilege-Escalation-Detector)
   - [Network Scanning](https://github.com/EsosaSEC/Network-Scanner)
