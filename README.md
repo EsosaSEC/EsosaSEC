@@ -3,12 +3,15 @@
 <h2>👨‍💻 My Cybersecurity Projects:</h2>
 
 - <b>SOC Projects</b>
+  - [Setting up Splunk Universal Forwarder and Sysmon on a Windows 10 virtual machine](.)
   - [Static and Dynamic Malware Analysis](https://github.com/EsosaSEC/Malware-Analysis)
   - [Detecting and Visualizing Nmap scans using Suricata and Splunk](https://github.com/EsosaSEC/Nmap-Suricata-Splunk)
   - [Detecting ICMP Traffic With Snort and Suricata- A Beginner's Guide](https://github.com/EsosaSEC/icmp-detection-snort-suricata)
   - [Detecting DNS Tunneling attack using Suricata, Wireshark, and Splunk](https://github.com/EsosaSEC/DNS-Tunneling-detection-iodine)
+  
     
 - <b>Active Directory Projects</b>
+  - [Setting up Active Directory Domain Services](.)
   - [Active Directory Vulnerability analysis using BloodHound](https://github.com/EsosaSEC/AD-Vulnerability-Analysis)
   
 - <b>Networking Projects</b>
