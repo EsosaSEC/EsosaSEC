@@ -3,7 +3,7 @@
 <h2>👨‍💻 My Cybersecurity Projects:</h2>
 
 - <b>SOC Projects</b>
-  - [Setting up Splunk Universal Forwarder and Sysmon on a Windows 10 virtual machine](.)
+  - [Setting up Splunk Universal Forwarder and Sysmon on a Windows 10 virtual machine](https://github.com/EsosaSEC/Splunk-Sysmon-Windows-lab)
   - [Static and Dynamic Malware Analysis](https://github.com/EsosaSEC/Malware-Analysis)
   - [Detecting and Visualizing Nmap scans using Suricata and Splunk](https://github.com/EsosaSEC/Nmap-Suricata-Splunk)
   - [Detecting ICMP Traffic With Snort and Suricata- A Beginner's Guide](https://github.com/EsosaSEC/icmp-detection-snort-suricata)
