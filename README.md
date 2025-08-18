@@ -28,6 +28,7 @@
 <h2> Certifications</h2>
 
 -[Junior Cybersecurity Analyst Path By Cisco](https://drive.google.com/file/d/1SpaM1vAon_JIhdbnlwN5IeyZ1mqhSNgx/view?usp=drive_link)
+
 -[Google Cybersecurity Professional Certificate By Coursera](https://drive.google.com/file/d/191DvlkiNy-7hgklSLteH1p5Hax232WIB/view?usp=drive_link)
 
 
