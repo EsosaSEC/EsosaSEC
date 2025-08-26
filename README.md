@@ -29,6 +29,8 @@
 
 -[Google Cybersecurity Professional Certificate By Coursera](https://drive.google.com/file/d/191DvlkiNy-7hgklSLteH1p5Hax232WIB/view?usp=drive_link)
 
+[Introduction to PowerShell By Security Blue Team](https://drive.google.com/file/d/12RKtNykU5i1xpi490pmB1pttyvkcPwqj/view?usp=drive_link)
+
 
 <h2> Badges </h2>
 
