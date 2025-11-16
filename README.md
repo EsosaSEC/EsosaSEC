@@ -8,6 +8,7 @@
   - [Detecting and Visualizing Nmap scans using Suricata and Splunk](https://github.com/EsosaSEC/Nmap-Suricata-Splunk)
   - [Detecting ICMP Traffic With Snort and Suricata- A Beginner's Guide](https://github.com/EsosaSEC/icmp-detection-snort-suricata)
   - [Detecting DNS Tunneling attack using Suricata, Wireshark, and Splunk](https://github.com/EsosaSEC/DNS-Tunneling-detection-iodine)
+  - [Threat Detection and Incident Response in a cloud enviroment using splunk](https://github.com/EsosaSEC/Splunk-botsv3-soc-analyst-investigation/tree/main)
   
     
 - <b>Active Directory Projects</b>
