@@ -8,7 +8,7 @@
   - [Detecting and Visualizing Nmap scans using Suricata and Splunk](https://github.com/EsosaSEC/Nmap-Suricata-Splunk)
   - [Detecting ICMP Traffic With Snort and Suricata- A Beginner's Guide](https://github.com/EsosaSEC/icmp-detection-snort-suricata)
   - [Detecting DNS Tunneling attack using Suricata, Wireshark, and Splunk](https://github.com/EsosaSEC/DNS-Tunneling-detection-iodine)
-  - [Threat Detection and Incident Response in a cloud enviroment using splunk](https://github.com/EsosaSEC/Splunk-botsv3-soc-analyst-investigation/tree/main)
+  - [Threat Detection and Incident Response in a cloud environment using Splunk](https://github.com/EsosaSEC/Splunk-botsv3-soc-analyst-investigation/tree/main)
   
     
 - <b>Active Directory Projects</b>
@@ -32,6 +32,9 @@
 
 [Introduction to PowerShell By Security Blue Team](https://drive.google.com/file/d/12RKtNykU5i1xpi490pmB1pttyvkcPwqj/view?usp=drive_link)
 
+[Axia Africa Cybersecurity Certification](https://drive.google.com/file/d/1IEHWSyGxG9wBfLWzY0vJWB6vkIY1HV-8/view?usp=drive_link)
+
+[Blue Team Junior Analyst Training Pathway](https://drive.google.com/file/d/1umii1cZap1fw8Itrc0eeQPdPsFC0R5KP/view?usp=drive_link)
 
 <h2> Badges </h2>
 
