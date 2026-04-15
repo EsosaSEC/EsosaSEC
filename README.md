@@ -14,6 +14,7 @@
 - <b>Active Directory Projects</b>
   - [Setting up Active Directory Domain Services](https://github.com/EsosaSEC/Active-Directory-Domain-Services)
   - [Active Directory Vulnerability analysis using BloodHound](https://github.com/EsosaSEC/AD-Vulnerability-Analysis)
+  - [Secure Helpdesk/Soc Security scenario](https://github.com/EsosaSEC/secure-helpdesk-)
   
 - <b>Networking Projects</b>
   - [Cisco-VLAN-DHCP-Enterprise-Setup](https://github.com/EsosaSEC/Enterprise-network-setup)
