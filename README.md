@@ -20,6 +20,9 @@
   - [Cisco-VLAN-DHCP-Enterprise-Setup](https://github.com/EsosaSEC/Enterprise-network-setup)
   - [Network Security using ACLS](https://github.com/EsosaSEC/enterprise-network-security-vlan-acl-packet-tracer)
 
+ - <b>Others</b>
+   - [Understanding pfSense firewall behaviour](https://github.com/EsosaSEC/Firewall-Behavior-Network-Reconnaissance-Lab-Using-pfSense)
+
 - <b>Bash Scripting</b>
   - [Failed Login detection](https://github.com/EsosaSEC/Failed-Login-Detector)
   - [Privilege Escalation](https://github.com/EsosaSEC/Privilege-Escalation-Detector)
