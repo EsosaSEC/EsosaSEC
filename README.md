@@ -12,7 +12,7 @@
   
 
 - <b>SOC Detection Lab</b>
-  - [RDP Brute-force detection using wazuh]( 
+  - [RDP Brute-force detection using Wazuh](https://github.com/EsosaSEC/Detecting-RDP-Brute-Force-Attacks-on-windows-with-Wazuh)
     
 - <b>Active Directory Projects</b>
   - [Setting up Active Directory Domain Services](https://github.com/EsosaSEC/Active-Directory-Domain-Services)
