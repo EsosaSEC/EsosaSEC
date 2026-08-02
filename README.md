@@ -10,6 +10,9 @@
   - [Detecting DNS Tunneling attack using Suricata, Wireshark, and Splunk](https://github.com/EsosaSEC/DNS-Tunneling-detection-iodine)
   - [Threat Detection and Incident Response in a cloud environment using Splunk](https://github.com/EsosaSEC/Splunk-botsv3-soc-analyst-investigation/tree/main)
   
+
+- <b>SOC Detection Lab</b>
+  - [RDP Brute-force detection using wazuh]( 
     
 - <b>Active Directory Projects</b>
   - [Setting up Active Directory Domain Services](https://github.com/EsosaSEC/Active-Directory-Domain-Services)
